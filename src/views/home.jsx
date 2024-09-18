@@ -48,13 +48,14 @@ export default function Home() {
         Pizza is not just a food; it's an experience. The aroma of freshly baked pizza, the sight of melted cheese stretching with every bite, and the explosion of flavors in your mouth - it's a
         sensory journey like no other. At JWT Pizza, we believe in the power of pizza to bring people together. Our inviting atmosphere and warm hospitality make every visit a special occasion.
         Whether you're celebrating a birthday, anniversary, or simply craving a delicious meal, JWT Pizza is here to make your experience extraordinary. Join us and discover the magic of pizza at its
-        finest.
+        finest. Testing Automatic Deployment.
       </p>
       <p className='text-neutral-100 text-start mx-4 pb-4'>
         Pizza is a universal language that transcends borders and cultures. It's a dish that brings people from all walks of life together, united by their love for this culinary masterpiece. At JWT
         Pizza, we embrace diversity and celebrate the joy of sharing a pizza with friends and family. Our menu features a wide range of flavors inspired by different cuisines, ensuring there's
         something for everyone. Whether you're a meat lover, a vegetarian, or have dietary restrictions, our pizzas are crafted to satisfy every palate. Come and experience the magic of pizza at JWT
         Pizza today!
+        
       </p>
     </View>
   );
