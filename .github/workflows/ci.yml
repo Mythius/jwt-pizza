@@ -58,6 +58,9 @@ jobs:
     needs: build
     permissions:
       id-token: write
+    environment:
+      name: production
+      url: https://pizza.msouthwick.com
     runs-on: ubuntu-latest
     env:
       version: ${{needs.build.outputs.version}}
